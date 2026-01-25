@@ -1,4 +1,4 @@
-### Hi, I'm Remirdy! 👋
+### Hi, I'm Emirhan Doygun! 👋
 
 I'm a Computer Engineering student at **Istanbul Commerce University**. 
 
