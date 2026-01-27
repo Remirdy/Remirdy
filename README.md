@@ -28,5 +28,14 @@ Ich studiere Computer Engineering und stehe auf Code **ohne viel Schnickschnack*
 <br>
 **DE:** Ein Telegram-Bot in purem C. Läuft **wie geschmiert** und verzichtet auf unnötigen Ballast.
 
+#### UmayOS (Operating System Kernel)
+**EN:** A 32-bit OS kernel written from scratch for RISC-V architecture. No standard libraries (`libc`), just pure C and Assembly.
+* **Features:** Custom Window Manager (GUI), Cooperative Multitasking, Desktop Environment, and integrated apps (Snake Game, Shell, Calculator).
+* **Tech:** C, RISC-V Assembly, QEMU, Makefile.
+
+**DE:** Ein eigenes 32-Bit Betriebssystem für die RISC-V Architektur. Keine Standard-Bibliotheken, nur pures C und Assembly.
+* **Features:** Eigener Window Manager (GUI), Multitasking, Desktop-Umgebung und Apps (Snake, Shell, Taschenrechner).
+* **Tech:** C, RISC-V Assembly, QEMU.
+
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Remirdy)
